@@ -1,11 +1,7 @@
-1- create a virtual env with `venv` name it `merger_env`
+1- install the pdf merger module ` pip install pypdf2 ` 
 
-2- activate the enviornment
+2- Create a directory `files `
 
-3- install the pdf merger module ` pip install pypdf2 ` 
+3- add your pdf files want to be merged on the `files` direcory
 
-4- Create a directory `files `
-
-5- add your pdf files want to be merged on the `files` direcory
-
-6- run the `./gather.sh`
+4- run the `./gather.sh`
